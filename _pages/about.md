@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ashmeet Khanuja"
+title: ""
 excerpt: "Ashmeet Khanuja"
 author_profile: true
 redirect_from: 
